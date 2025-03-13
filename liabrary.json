@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Mattes",
+        "publication_year": 2019,
+        "genre": "Programming",
+        "read_status": false,
+        "added_date": "2025-03-11 11:36:40"
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "publication_year": 2008,
+        "genre": "Software Development",
+        "read_status": true,
+        "added_date": "2025-03-12 14:20:15"
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt, David Thomas",
+        "publication_year": 1999,
+        "genre": "Software Engineering",
+        "read_status": false,
+        "added_date": "2025-03-13 09:45:30"
+    },
+    {
+        "title": "Typescript",
+        "author": "Al Sweigart",
+        "publication_year": 2015,
+        "genre": "Programming",
+        "read_status": true,
+        "added_date": "2025-03-14 10:15:30"
+    },
+    {
+        "title": "You Don't Know JS",
+        "author": "Kyle Simpson",
+        "publication_year": 2014,
+        "genre": "JavaScript",
+        "read_status": false,
+        "added_date": "2025-03-14 12:30:45"
+    },
+    {
+        "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+        "publication_year": 1994,
+        "genre": "Software Design",
+        "read_status": true,
+        "added_date": "2025-03-14 15:05:20"
+    }
+]
